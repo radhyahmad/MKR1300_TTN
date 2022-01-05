@@ -5,8 +5,8 @@
 
 LoRaModem lorawan;
 
-String appEui = "A8610A34323B8D08";
-String appKey = "868910B742F20BDA1D483D34D4B989AB";
+String appEui = "";
+String appKey = "";
 
 #define DHTPIN 6
 #define DHTTYPE DHT22
